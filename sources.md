@@ -10,7 +10,9 @@ Powyżej przykład zastosowania YOLO do detekcji samolotów na zdjęciach sateli
 
 ### Estymacja liczebności poszczególnych zbiorów ludzi
 
-[Google Earth](https://developers.google.com/earth-engine/datasets/catalog/CIESIN_GPWv411_GPW_Population_Density) Udostępnia mapę zagęszczenia ludności.
+Google Earth udostępnia źródła zagęszczenia ludności:
+- [GPWv411](https://developers.google.com/earth-engine/datasets/catalog/CIESIN_GPWv411_GPW_Population_Density) 
+- [LandScan](https://developers.google.com/earth-engine/datasets/catalog/projects_sat-io_open-datasets_ORNL_LANDSCAN_GLOBAL)
 
 ![Population density](image-1.png)
 
@@ -21,3 +23,7 @@ Niektóre organizacje (takie jak Water For Good) udostępniają lokalizacje utrz
 ## Badanie dostępności dróg, sieci elektrycznej
 
 Żródła takie jak [World Bank](https://datacatalog.worldbank.org/search/dataset/0040465/Africa---Electricity-Transmission-and-Distribution-Grid-Map) oraz [Komisja Europejska](https://africa-knowledge-platform.ec.europa.eu/explore_maps?title=OpenStreetMap%20African%20Roads) udostępniają informacje na temat dostępu sieci elektrycznej oraz dróg.
+
+## Badanie stanu upraw
+
+Jest już [gotowe rozwiązanie](https://github.com/OmdenaAI/cracow-poland-rural-farmers#improving-digital-advisory-services-for-rural-farmers-using-predictive-analytics-and-satellite-imagery), którym można się zainspirować lub uzgodnić warunki użytku z autorami.
