@@ -27,3 +27,8 @@ Niektóre organizacje (takie jak Water For Good) udostępniają lokalizacje utrz
 ## Badanie stanu upraw
 
 Jest już [gotowe rozwiązanie](https://github.com/OmdenaAI/cracow-poland-rural-farmers#improving-digital-advisory-services-for-rural-farmers-using-predictive-analytics-and-satellite-imagery), którym można się zainspirować lub uzgodnić warunki użytku z autorami.
+
+## Badanie możliwego zasięgu telefonii komórkowej
+[OpenCellID](https://opencellid.org/) to otwarta światowa baza danych anten telefonii komórkowej. Znajdują się tam takie dane jak położenie (latitude, longitude), teoretyczny zasięg oraz wykorzystywana technologia (2G, 3G, 4G).
+[W Afryce tylko 70 % ludności ma dostęp do telefonii komórkowej](https://www.gsma.com/mobilefordevelopment/blog/mobile-connectivity-in-sub-saharan-africa-4g-and-3g-connections-overtake-2g-for-the-first-time/)
+![Plot](image-2.png)
